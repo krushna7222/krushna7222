@@ -3,7 +3,7 @@ Currently A passionate Frontend Developer from India..
 
 📍 Current Location : Pune, Maharashtra, India
 
-🔭 I’m currently working on :Front End
+🔭 I’m currently working on : Front End
 
 🌱 I’m currently learning : Java Fullstack Development
 
