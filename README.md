@@ -21,4 +21,4 @@ Connect with me: https://www.linkedin.com/in/krushnashahane/
 
 
 Languages and Tools:
-C C++ CSS3 HTML5 Java JavaScript React Bootstrap Git Github VS Code Chat GPT
+HTML5 CSS3 JavaScript React Java C C++  Bootstrap Git Github VS Code Chat GPT
