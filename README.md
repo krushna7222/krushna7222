@@ -24,10 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="[https://linkedin.com/in/yash walke](https://www.linkedin.com/in/krushnashahane/)" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/krushnashahane/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="Krushna Shahane" height="30" width="40" /></a>
-    <a href="https:https://www.facebook.com/krushna.shahane.37?mibextid=ZbWKwL" target="blank"><img align="center"
+    <a href="https://www.facebook.com/krushna.shahane.37?mibextid=ZbWKwL" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="Krushna Shahane" height="30" width="40" /></a>
     <a href="https://www.instagram.com/krushna_shahane_96k" target="blank"><img align="center"
